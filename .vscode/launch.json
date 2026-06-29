@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "CampusConnect (prod - Supabase)",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--dart-define-from-file=prod.env.json"
+      ]
+    },
+    {
+      "name": "CampusConnect (dev - Mockoon)",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--dart-define=ENV=dev"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "campus_code": "CAM-AUS-11",
+  "api_base_path": "/api/v2/aus/",
+  "version": "1.0.0",
+  "project_name": "CampusConnect AUS",
+  "group": "Group 11"
+}
