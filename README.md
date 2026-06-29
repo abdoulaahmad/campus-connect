@@ -2,7 +2,7 @@
 
 **Group 11 | CAM-AUS-11 | Lead: Abdullahi Abba Ahmad | Matric: FCP/CIT/22/1000**
 
-> Unified Intelligent Mobile Campus Platform for Abubakar Tafawa Balewa University (ATBU) / Federal University Dutse (FUD) — built with Flutter and Supabase.
+> Unified Intelligent Mobile Campus Platform for Federal University Dutse (FUD) — built with Flutter and Supabase.
 
 ---
 
@@ -279,4 +279,4 @@ campus-connect/
 
 ---
 
-> **CAM-AUS-11** · Group 11 · FCP/CIT/22/1000
+> **CAM-AUS-11** · Group 11 · FCP/CSE/22/1000
